@@ -1,0 +1,193 @@
+body{
+
+    color:black;
+
+    font-size: 20px;
+
+    background-color: #FFFFFF;
+
+   
+
+
+
+}
+
+
+
+
+
+div#formulario01{
+
+
+
+    text-align: center; 
+
+    color: black;
+
+    background-color: rgba(17, 15, 15, 0.658);
+
+    width: min-content;
+
+    margin-left:400px;    
+
+    
+
+}
+
+
+
+h1#titulo{
+
+    text-align: center;
+
+    text-decoration: underline;
+
+    color: black;
+
+    
+
+}
+
+
+
+a.verde{
+
+
+
+    padding: 5px;
+
+    margin: 8px;
+
+    background-color: green;
+
+    color: black;
+
+
+
+}
+
+a.amarelo{
+
+    padding: 5px;
+
+    margin: 8px;
+
+    background-color:rgba(255, 238, 0, 0.884);
+
+    color: black;
+
+
+
+}
+
+a.vermelho{
+
+    padding: 5px;
+
+    margin: 8px;
+
+    background-color: red;
+
+    color: black;
+
+}
+
+
+
+div#botoes_alas{
+
+    text-align: center;
+
+}
+
+
+
+div#alaverde01{
+
+
+
+    background-color: green;
+
+    padding: 5px;
+
+    text-align: center;
+
+    color:white;
+
+
+}
+
+
+
+div#alaamarelo01{
+
+
+
+    background-color:rgba(255, 238, 0, 0.884);
+
+    padding: 5px;
+
+    text-align: center;
+
+    color: white;
+
+}
+
+
+
+div#alavermelho01{
+
+
+
+    background-color:red;
+
+    padding: 5px;
+
+    text-align: center;
+
+    color:white;
+
+    box-sizing: border-box ;
+
+}
+
+button#remover{
+
+    background-color: rgba(17, 15, 15, 0.658);
+
+    padding: 5px;
+
+    text-align: center;
+
+    color: white;
+
+    border-radius: 10px;
+
+}
+
+
+button#mover{
+
+    background-color: rgba(17, 15, 15, 0.658);
+
+    padding: 5px;
+
+    text-align: center;
+
+    color: white;
+
+    border-radius: 10px;
+
+}
+
+footer#rodape{
+
+
+
+    text-align: center;
+
+    border-top: 5px transparent;
+
+    
+
+}
